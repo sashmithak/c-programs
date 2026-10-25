@@ -1,0 +1,18 @@
+----Manual RAII smart pointer----
+Resource aquired
+Resource is being used
+Resource released
+Manual smart pointer destroyed
+
+----unique_ptr----
+Resource aquired
+Resource is being used
+Resource released
+
+----shared_ptr----
+Resource aquired
+Resource is being used
+shared pointer count:2
+Resource released
+
+program completed successfully.
