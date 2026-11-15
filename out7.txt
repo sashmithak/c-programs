@@ -1,0 +1,23 @@
+Initial Account Details:
+Account Holder: Arun
+Balance: Rs. 5000
+Initial Account Details:
+Account Holder: sash
+Balance: Rs. 10000
+Initial Account Details:
+Account Holder: kalpana
+Balance: Rs. 8000
+
+Depositing Rs. 1000...
+Withdrawing Rs. 2000...
+Withdrawing Rs. 10000...
+Error: Insufficient balance for withdrawal.
+
+Final Account Details:
+Account Holder: Arun
+Balance: Rs. 4000
+Account Holder: sash
+Balance: Rs. 10000
+Account Holder: kalpana
+Balance: Rs. 8000
+PS C:\Users\realme\OneDrive\Desktop\c prog> 
